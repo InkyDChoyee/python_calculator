@@ -28,7 +28,7 @@ add(10, 20, 30, 40)
 def star_player(**kwargs):
        for i in kwargs.items():   # .items()를 붙여줌
               print(i)  # tuple형태로 반환
-
+        
 star_player(축구 = "손흥민", 야구 = "박용택", 농구 = "허재")  # dictionary 형태로 값 전달
 
 def func_a(name, *args, address = "한국", **kwargs):  # 순서를 바꾸게 되면 오류남
