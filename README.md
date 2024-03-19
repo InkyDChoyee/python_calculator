@@ -26,28 +26,23 @@
 ---
 
 ### 🗺️ 프로젝트 아키텍처
-1. 기본 화면
-![기본 화면](https://github.com/InkyDChoyee/To_Do_List/blob/main/architecture/to_do_list_1.PNG?raw=true)
+1. 계산 전
+![계산 전](https://github.com/InkyDChoyee/python_calculator/blob/Calculrator/%EA%B3%84%EC%82%B0%EA%B8%B0exe/architecture/calculator_3.PNG?raw=true)
 #
 
-2. 할 일 추가
-![할 일 추가](https://github.com/InkyDChoyee/To_Do_List/blob/main/architecture/to_do_list_2.PNG?raw=true)
+2. 계산 후
+![계산 후](https://github.com/InkyDChoyee/python_calculator/blob/Calculrator/%EA%B3%84%EC%82%B0%EA%B8%B0exe/architecture/calculator_4.PNG?raw=true)
 #
 
-3. 할 일 완료(체크)
-![할 일 체크](https://github.com/InkyDChoyee/To_Do_List/blob/main/architecture/to_do_list_3.PNG?raw=true)
+3. 코드 1
+![코드 1](https://github.com/InkyDChoyee/python_calculator/blob/Calculrator/%EA%B3%84%EC%82%B0%EA%B8%B0exe/architecture/calculator_1.PNG?raw=true)
 #
 
-4. 할 일 수정
-![할 일 수정](https://github.com/InkyDChoyee/To_Do_List/blob/main/architecture/to_do_list_4-1.PNG?raw=true)
-![할 일 수정](https://github.com/InkyDChoyee/To_Do_List/blob/main/architecture/to_do_list_4-2.PNG?raw=true)
-![할 일 수정](https://github.com/InkyDChoyee/To_Do_List/blob/main/architecture/to_do_list_4-3.PNG?raw=true)
+4. 코드 2
+![코드 2](https://github.com/InkyDChoyee/python_calculator/blob/Calculrator/%EA%B3%84%EC%82%B0%EA%B8%B0exe/architecture/calculator_2.PNG?raw=true)
 #
-
-
 
 
 ### 🔗 링크
-* [to do list 페이지](https://inkydchoyee.github.io/To_Do_List/, "To Do List") 
-* [블로그](https://choyee.tistory.com/55, "티스토리 블로그")
+* [블로그](https://choyee.tistory.com/12, "티스토리 블로그")
 ---
