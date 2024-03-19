@@ -27,10 +27,12 @@
 
 ### 🗺️ 프로젝트 아키텍처
 1. 계산 전
+
 ![계산 전](https://github.com/InkyDChoyee/python_calculator/blob/Calculrator/%EA%B3%84%EC%82%B0%EA%B8%B0exe/architecture/calculator_3.PNG?raw=true)
 #
 
 2. 계산 후
+
 ![계산 후](https://github.com/InkyDChoyee/python_calculator/blob/Calculrator/%EA%B3%84%EC%82%B0%EA%B8%B0exe/architecture/calculator_4.PNG?raw=true)
 #
 
