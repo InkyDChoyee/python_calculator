@@ -1,4 +1,4 @@
-# 📋 Calculator 프로젝트
+# 📋 Calculator 계산기
 
 * 함수와 코딩의 기본 이해
 * python을 활용하여 계산기 구현
